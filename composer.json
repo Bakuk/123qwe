@@ -1,9 +1,8 @@
 {
-    "name": "root/src",
-    "description": "online shop",
+    "name": "root/core",
     "autoload": {
         "psr-4": {
-            "Root\\Src\\": "src/"
+            "Root\\Core\\": "src/"
         }
     },
     "authors": [
