@@ -5,10 +5,20 @@
             "Root\\Core\\": "src/"
         }
     },
+
     "authors": [
         {
             "name": "bakuk"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.0"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+
+    "license": "MIT",
+
 }
