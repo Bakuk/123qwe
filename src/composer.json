@@ -1,0 +1,15 @@
+{
+    "name": "root/src",
+    "description": "online shop",
+    "autoload": {
+        "psr-4": {
+            "Root\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bakuk"
+        }
+    ],
+    "require": {}
+}
